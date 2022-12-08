@@ -1,1 +1,2 @@
 We are building Tic Tac Toe game using minimax algortithm
+Repo is successfully linked with github
